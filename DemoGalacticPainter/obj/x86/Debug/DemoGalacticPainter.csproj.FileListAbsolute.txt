@@ -1,0 +1,6 @@
+/Users/acronis/Projects/DemoGalacticPainter/DemoGalacticPainter/bin/Debug/DemoGalacticPainter.exe
+/Users/acronis/Projects/DemoGalacticPainter/DemoGalacticPainter/bin/Debug/DemoGalacticPainter.pdb
+/Users/acronis/Projects/DemoGalacticPainter/DemoGalacticPainter/obj/x86/Debug/DemoGalacticPainter.csprojAssemblyReference.cache
+/Users/acronis/Projects/DemoGalacticPainter/DemoGalacticPainter/obj/x86/Debug/DemoGalacticPainter.csproj.CoreCompileInputs.cache
+/Users/acronis/Projects/DemoGalacticPainter/DemoGalacticPainter/obj/x86/Debug/DemoGalacticPainter.exe
+/Users/acronis/Projects/DemoGalacticPainter/DemoGalacticPainter/obj/x86/Debug/DemoGalacticPainter.pdb
